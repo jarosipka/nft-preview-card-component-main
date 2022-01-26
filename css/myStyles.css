@@ -1,0 +1,103 @@
+body{
+    font-family: 'Outfit', sans-serif;
+    background-color: #0D192B;   
+    
+}
+
+#mainWrapper{
+    margin: auto;
+    text-align: center;
+    height: 600px;
+    width: 340px;
+     background-color: #14253D;
+    border-radius:1em;
+    margin-top: 160px;
+    
+}
+
+#NFT img{
+  
+    height: 300px;
+    margin-top: 20px;
+    border-radius: 1em;
+
+        }
+
+h1{
+    color: white;
+   text-align: left;
+   margin: 20px;
+   font-size: 20px;
+        }
+
+        p{
+            text-align: left;
+            font-size: 15px;
+            color: hsl(215, 51%, 70%);
+            padding-right: 40px;
+            padding-left: 20px;
+        }
+
+        #icon{
+            padding-top: 10px;
+            margin-left: 20px;
+            float: left;
+            color: hsl(178, 100%, 50%);
+            
+        
+        }
+
+       
+#days{
+    padding-top: 10px;
+    padding-left: 200px;
+    color: hsl(215, 51%, 70%);
+}
+
+#name img{
+    
+    padding-top: 1px;
+        float: left;
+        padding-left: 10px; 
+        width:30px;
+        height:30px;
+        }
+
+
+
+        #creation{
+            padding-top: 10px;
+            float: left;
+            padding-left: 30px;
+            color: hsl(215, 51%, 70%);
+        }
+
+
+        #name{
+            padding-top: 10px;
+            float: left;
+            padding-left: 10px;
+            color: white;
+        }
+hr{
+    border: 1px solid  hsl(215, 51%, 70%);
+    margin: 20px;
+}
+
+    .attribution {
+         font-size: 11px; text-align: center; }
+
+    .attribution a {
+         color: hsl(228, 45%, 44%); }
+
+
+         .flotRight{
+             float: right;
+         }
+
+         .clearFix{
+             clear: both;
+         }
+
+
+         
